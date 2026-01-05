@@ -1,10 +1,13 @@
 Social Network Simulation (Data Structures Project)
+
+-------------------------------------------------------------------------------------
+
 This project is a Java-based social network backend simulation developed to demonstrate the practical application of fundamental data structures. It manages user relationships, post feeds, and activity tracking using performance-optimized data organizations.
 
 -------------------------------------------------------------------------------------
 
 🚀 Features
-User Management: Secure user registration, login, and account deletion.
+* User Management: Secure user registration, login, and account deletion.
 
 * Friendship System: Establish or remove friendships and manage incoming friend requests.
 
@@ -55,5 +58,11 @@ The core of this project relies on specific data structures to ensure efficiency
 3. Run Main.java to start the application.
 
 -------------------------------------------------------------------------------------
+
+Developed by Muhammed Emre Cengiz (mec)
+
+
+-------------------------------------------------------------------------------------
+
 
 Developed by [Senin Adın]
