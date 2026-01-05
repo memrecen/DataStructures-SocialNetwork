@@ -60,9 +60,3 @@ The core of this project relies on specific data structures to ensure efficiency
 -------------------------------------------------------------------------------------
 
 Developed by Muhammed Emre Cengiz (mec)
-
-
--------------------------------------------------------------------------------------
-
-
-Developed by [Senin Adın]
